@@ -12,7 +12,7 @@
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 1    | Vidéo Introduction + mise en place du projet à partir de la saison 2                                                                                                                             | 07/08/2024 |
 | 2    | Mise en place du slider Bootstrap 5 avec des images                                                                                                                                              | 09/03/2024 |
-| 3    | Ajout du plugin Web developer tool bar - Ajout d'une taille personnalisée d'image dans wordpress avec un hook                                                                                    |
+| 3    | Ajout du plugin Web developer tool bar - Ajout d'une taille personnalisée d'image dans wordpress avec un hook                                                                                    | 11/03/2024 |
 | 4    | Ajout du plugin ACF et création d'un custom post **en code** pour les images du slider - Utilisation de plusieurs hooks - ajout d'une image et de l'ordre de passage des items dans le dashboard | 11-03-2024 |
 | 5    | Mise en place de la query pour dynamiser le carousel - Installation du plugin ACF pour les images et sous-titres                                                                                 | 13/04/2024 |
 | 6    | Suite de la vidéo précédente avec la mise en place de la boucle et des valeurs des custom-types - balise img -> alt                                                                              | 13/04/2024 |
