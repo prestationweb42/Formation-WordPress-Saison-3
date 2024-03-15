@@ -33,13 +33,13 @@
 
 ## Tech
 
--   [Mac] - Personal computer
--   [Chrome] - Web navigator
--   [MAMP] - Local server environment
--   [VSCode] - Code Editor
--   [WordPress] - CMS
--   [HTML] - Hyper Text Marckup Language
--   [CSS] - Cascading Style Sheet
+-   ![Static Badge](https://img.shields.io/badge/MacBookPro-Computer-blue?style=plastic) - Personal computer
+-   ![Static Badge](https://img.shields.io/badge/Chrome-Navigator-blue?style=plastic) - Web navigator
+-   ![Static Badge](https://img.shields.io/badge/VSCode-Code_Editor-blue?style=plastic) - Local server environment
+-   ![Static Badge](https://img.shields.io/badge/VSCode-Code_Editor-blue?style=plastic) - Code Editor
+-   ![Static Badge](https://img.shields.io/badge/WordPress-blue) - CMS
+-   ![Static Badge](https://img.shields.io/badge/HTML-red) - Hyper Text Marckup Language
+-   ![Static Badge](https://img.shields.io/badge/CSS-blue) - Cascading Style Sheet
 -   ![Static Badge](https://img.shields.io/badge/SASS-red) - CSS pre-processor
 -   ![Static Badge](https://img.shields.io/badge/jQuery-yellow) - JavaScript library
 -   ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) - JavaScript
