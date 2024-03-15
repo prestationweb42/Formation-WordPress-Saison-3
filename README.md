@@ -6,6 +6,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://daniel-ventura.com)
 
+![Static Badge](https://img.shields.io/badge/wordpress_perso-blue)
+
+
 ### Ajout du carousel avec Bootstrap
 
 | Step | Action                                                                                                                                                                                           | Date       |
