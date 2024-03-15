@@ -8,6 +8,17 @@
 
 ### Ajout du carousel avec Bootstrap
 
+| Step | Actions                                                                                                       | Date       |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1    | Vidéo Introduction + mise en place du projet à partir de la saison 2                                          | 07/08/2024 |
+| 2    | Mise en place du slider Bootstrap 5 avec des images                                                           | 09/04/2024 |
+| 3    | Ajout du plugin Web developer tool bar - Ajout d'une taille personnalisée d'image dans wordpress avec un hook | 11/04/2024 |
+| 4    | [plugins/onedrive/README.md][PlOd]                                                                            | 11/04/2024 |
+| 5    | [plugins/medium/README.md][PlMe]                                                                              | 13/04/2024 |
+| 6    | [plugins/googleanalytics/README.md][PlGa]                                                                     | 13/04/2024 |
+| 7    | [plugins/googleanalytics/README.md][PlGa]                                                                     | 14/04/2024 |
+| 8    | [plugins/googleanalytics/README.md][PlGa]                                                                     | 14/04/2024 |
+
 1. Vidéo Introduction + mise en place du projet à partir de la saison 2 - 07-09/03/2024
 2. Mise en place du slider Bootstrap 5 avec des images - 09/04/2024
 3. Ajout du plugin Web developer tool bar - Ajout d'une taille personnalisée d'image dans wordpress avec un hook - 11-03-2024
