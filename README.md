@@ -40,6 +40,6 @@
 -   [WordPress] - CMS
 -   [HTML] - Hyper Text Marckup Language
 -   [CSS] - Cascading Style Sheet
--   [SASS] - CSS pre-processor
+-   ![Static Badge](https://img.shields.io/badge/SASS-red) - CSS pre-processor
 -   ![Static Badge](https://img.shields.io/badge/jQuery-yellow) - JavaScript library
--   [JavaScript] - JavaScript
+-   ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) - JavaScript
