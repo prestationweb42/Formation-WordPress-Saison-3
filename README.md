@@ -41,5 +41,5 @@
 -   [HTML] - Hyper Text Marckup Language
 -   [CSS] - Cascading Style Sheet
 -   [SASS] - CSS pre-processor
--   [jQuery] - JavaScript library
+-   ![Static Badge](https://img.shields.io/badge/jQuery-yellow) - JavaScript library
 -   [JavaScript] - JavaScript
