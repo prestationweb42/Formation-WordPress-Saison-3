@@ -29,14 +29,12 @@ if ($slider_query->have_posts()) :
             <!-- Carousel Indicator -->
             <div class="carousel-indicators d-none d-md-flex">
                 <?php
-                    $active_indicator = 0;
                     while ($slider_query->have_posts()) :
                         $slider_query->the_post();
-                        echo '<button type="button" data-bs-target="#carousel_01" data-bs-slide-to="' . $active_indicator . '" class="' . ($active_indicator == 0 ?  "active" : "") . '"
+                        echo '<button type="button" data-bs-target="#carousel_01" data-bs-slide-to="' . $slider_query->current_post . '" class="' . ($slider_query->current_post == 0 ?  "active" : "") . '"
                     aria-current="true" aria-label="Slide 1"></button>';
                     ?>
-                <?php $active_indicator++;
-                    endwhile; ?>
+                <?php endwhile; ?>
             </div>
             <?php rewind_posts(); ?>
             <!-- Carousel Items -->
